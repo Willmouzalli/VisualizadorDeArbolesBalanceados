@@ -1,4 +1,4 @@
-Visualizador de Árboles AVL en Python
+# Visualizador de Árboles AVL en Python
 
 Este proyecto es una herramienta educativa desarrollada para la materia de Algoritmos y Programación II. Consiste en un visualizador gráfico interactivo de un Árbol Binario de Búsqueda Auto-balanceado (AVL), construido íntegramente con la librería estándar de Python.
 
@@ -37,10 +37,11 @@ Al no requerir dependencias externas, la ejecución es directa:
     Clona este repositorio o descarga el archivo .py.
 
     Abre una terminal y ejecuta:
+
 ```bash
     python main.py
 ```
-```
+
 
 📖 Casos de Prueba Recomendados
 
@@ -50,4 +51,5 @@ Para verificar el funcionamiento de las rotaciones, inserte los valores en los s
 
     Rotación Doble: 30, 10, 20 (Provoca rotación Izquierda-Derecha).
 
-Autor: Wilfredo Mouzalli Materia: Algoritmos y Programación Fecha: 2026
+
+### Autor: Wilfredo Mouzalli | Materia: Algoritmos y Programación 2 | Fecha: 2026
